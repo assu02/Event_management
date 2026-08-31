@@ -1,32 +1,18 @@
-# SQL Database Project
+SQL Database Project
 
-## 📌 Project Overview
-This project demonstrates SQL database management concepts,
-including table creation, data insertion, joins, subqueries,
-aggregate functions, and various SQL queries.
+This project demonstrates basic SQL database concepts using MySQL.
 
-## 🛠️ Technologies Used
-- SQL
-- MySQL
-- Database Management
+Topics Covered
+Database & table creation
+Data insertion
+SELECT, WHERE, ORDER BY
+GROUP BY & HAVING
+Aggregate functions
+Joins
+Subqueries
+Primary & Foreign Keys
+Tools
+MySQL
+SQL
 
-## 📂 Project Files
-
-### PROJECT.sql
-Contains the SQL database structure, tables, data, and queries.
-
-### PROJECT QUESTION.sql
-Contains the SQL questions/tasks used for the project.
-
-## 🎯 Key Concepts
-- DDL and DML
-- SELECT queries
-- WHERE and ORDER BY
-- GROUP BY and HAVING
-- Aggregate Functions
-- Joins
-- Subqueries
-- Primary Key and Foreign Key
-
-## 👩‍💻 Author
-Assuwathi
+Author: Assuwathi
